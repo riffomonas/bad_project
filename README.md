@@ -17,7 +17,7 @@ mkdir data
 mkdir data/raw
 ```
 
-3. You can move files into directories with the `mv` command (don't forget the `/` on the directory name):
+3\. You can move files into directories with the `mv` command (don't forget the `/` on the directory name):
 
 ```
 mv *.sh code/
