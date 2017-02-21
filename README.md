@@ -1,4 +1,4 @@
-# [Bad Project](https://www.youtube.com/embed/Fl4L4M8m4d0]
+# [Bad Project](https://www.youtube.com/embed/Fl4L4M8m4d0)
 
 * This exercise accompanies the *Riffomonas* [Documentation lesson](http://www.riffomonas.org/tutorials/documentation)
 * You have inherited a project from a previous student in the lab
